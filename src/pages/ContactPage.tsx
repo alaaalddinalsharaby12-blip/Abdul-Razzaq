@@ -156,9 +156,9 @@ ${formData.message}
                 <span className="px-2 py-1 bg-white rounded-lg text-xs text-gray-600">الروضة</span>
                 <span className="px-2 py-1 bg-white rounded-lg text-xs text-gray-600">الورود</span>
                 <span className="px-2 py-1 bg-white rounded-lg text-xs text-gray-600">المشرفة</span>
-                <span className="px-2 py-1 bg-white rounded-lg text-xs text-gray-600">البغدادية</span>
+                <span className="px-2 py-1 bg-white rounded-lg text-xs text-gray-600">النخيل</span>
                 <span className="px-2 py-1 bg-white rounded-lg text-xs text-gray-600">الأندلس</span>
-                <span className="px-2 py-1 bg-white rounded-lg text-xs text-gray-600">الخالدية</span>
+                <span className="px-2 py-1 bg-white rounded-lg text-xs text-gray-600">درب</span>
               </div>
             </div>
 
